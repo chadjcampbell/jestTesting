@@ -1,0 +1,22 @@
+{
+  "name": "jesttesting",
+  "version": "1.0.0",
+  "description": "Just some simple tests to run on functions, to get comfortable with TDD using Jest as a test runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadjcampbell/jestTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chadjcampbell/jestTesting/issues"
+  },
+  "homepage": "https://github.com/chadjcampbell/jestTesting#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.19.4"
+  }
+}
