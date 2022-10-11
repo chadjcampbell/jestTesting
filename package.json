@@ -4,7 +4,7 @@
   "description": "Just some simple tests to run on functions, to get comfortable with TDD using Jest as a test runner",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/chadjcampbell/jestTesting#readme",
   "devDependencies": {
-    "@babel/preset-env": "^7.19.4"
+    "@babel/preset-env": "^7.19.4",
+    "jest": "^29.1.2"
   }
 }
